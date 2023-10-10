@@ -1,0 +1,29 @@
+﻿<div class="row">
+	<div class="col-12">
+		<div class="breadcrumbs mb-4">
+			<a href="index.html">Home</a>
+			<span class="mx-1">/</span>  <a href="#!">Articles</a>
+			<span class="mx-1">/</span>  <a href="#!">Travel</a>
+		</div>
+		<h1 class="mb-4 border-bottom border-primary d-inline-block">Blog Yazıları</h1>
+	</div>
+	<div class="col-lg-8 mb-5 mb-lg-0">
+		<div class="row">
+				@await Component.InvokeAsync("ArticleVC")
+		</div>
+	</div>
+	<div class="col-lg-4">
+		<div class="widget-blocks">
+			<div class="row">
+				<div class="col-lg-12">
+					<partial name="_AuthorPartial" />
+				</div>
+				<div class="col-lg-12 col-md-6">
+					@await Component.InvokeAsync("RecommendedVC")
+				</div>
+				<div class="col-lg-12 col-md-6">
+					@await Component.InvokeAsync("CategoriesVC")
+				</div>
+			</div>
+		</div>
+	</div>

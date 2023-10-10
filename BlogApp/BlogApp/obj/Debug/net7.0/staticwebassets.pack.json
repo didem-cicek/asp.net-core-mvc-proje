@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlogApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\404.png",
+      "PackagePath": "staticwebassets\\images\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\cr-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\cr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\cr-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\cr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\izmir.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\izmir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\ls-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\ls-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-4.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-5.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-6.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-7.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-8.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\post-9.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\images\\post\\tarihi-ve-efsanevi-yedi-uyuyanlar-magarasi.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\tarihi-ve-efsanevi-yedi-uyuyanlar-magarasi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didemcicek\\Documents\\GitHub\\asp.net-core-mvc-proje\\BlogApp\\BlogApp\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlogApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlogApp.props",
+      "PackagePath": "build\\BlogApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogApp.props",
+      "PackagePath": "buildMultiTargeting\\BlogApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlogApp.props",
+      "PackagePath": "buildTransitive\\BlogApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

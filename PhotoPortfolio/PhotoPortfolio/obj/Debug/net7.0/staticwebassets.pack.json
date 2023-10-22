@@ -1,0 +1,2525 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PhotoPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PhotoPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\dashlite.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\dashlite.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\dashlite.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\dashlite.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\dashlite.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\dashlite.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\dashlite.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\dashlite.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\editors\\quill.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\editors\\quill.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\editors\\quill.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\editors\\quill.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\editors\\summernote.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\editors\\summernote.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\editors\\summernote.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\editors\\summernote.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\editors\\tinymce.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\editors\\tinymce.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\editors\\tinymce.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\editors\\tinymce.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\libs\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\libs\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\libs\\fontawesome-icons.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\libs\\fontawesome-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\libs\\jstree.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\libs\\jstree.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\libs\\themify-icons.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\libs\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\skins\\theme-blue.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\skins\\theme-blue.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\skins\\theme-bluelite.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\skins\\theme-bluelite.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\skins\\theme-egyptian.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\skins\\theme-egyptian.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\skins\\theme-green.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\skins\\theme-green.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\skins\\theme-red.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\skins\\theme-red.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\style-email.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\style-email.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Bold.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Bold.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Bold.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Medium.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Medium.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Medium.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Regular.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Regular.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\DMSans-Regular.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\DMSans-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\Nioicon.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\Nioicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\Nioicon.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\Nioicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\Nioicon.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\Nioicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\Nioicon.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\Nioicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\summernote.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\fonts\\tinymce-mobile.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\fonts\\tinymce-mobile.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\images\\jsTree\\32px-dark.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\jsTree\\32px-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\images\\jsTree\\32px.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\jsTree\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\images\\jsTree\\40px-dark.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\jsTree\\40px-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\images\\jsTree\\40px.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\jsTree\\40px.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\images\\jsTree\\throbber-dark.gif",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\jsTree\\throbber-dark.gif"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\images\\jsTree\\throbber.gif",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\jsTree\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\apps\\calendar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\apps\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\apps\\chats.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\apps\\chats.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\apps\\file-manager.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\apps\\file-manager.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\apps\\inbox.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\apps\\inbox.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\apps\\kanban.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\apps\\kanban.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\apps\\messages.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\apps\\messages.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\charts\\chart-analytics.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\charts\\chart-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\charts\\chart-ecommerce.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\charts\\chart-ecommerce.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\charts\\chart-lms.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\charts\\chart-lms.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\charts\\chart-sales.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\charts\\chart-sales.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\charts\\chart-widgets.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\charts\\chart-widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\editors.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\editors.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\example-chart.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\example-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\example-dragula.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\example-dragula.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\example-listbox.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\example-listbox.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\example-map.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\example-map.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\example-sweetalert.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\example-sweetalert.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\example-toastr.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\example-toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\example-tree.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\example-tree.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\datatable-btns.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\datatable-btns.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\dragula.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\dragula.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\dual-listbox.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\dual-listbox.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\editors\\quill.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\editors\\quill.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\editors\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\editors\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\editors\\summernote.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\editors\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\editors\\tinymce.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\editors\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\jkanban.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\jkanban.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\jqvmap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\jqvmap.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\jstree.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\jstree.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\libs\\tagify.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\libs\\tagify.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\avatar\\a-sm.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\avatar\\a-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\avatar\\b-sm.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\avatar\\b-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\avatar\\c-sm.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\avatar\\c-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\avatar\\d-sm.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\avatar\\d-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\email\\kyc-pending.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\email\\kyc-pending.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\email\\kyc-progress.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\email\\kyc-progress.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\email\\kyc-success.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\email\\kyc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\arg.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\arg.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\aus.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\aus.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\bangladesh.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\bangladesh.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\canada.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\canada.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\china-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\china-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\china.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\china.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\english-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\english-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\english.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\english.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\french-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\french-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\french.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\french.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\germany-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\germany-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\germany.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\germany.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\iran-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\iran-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\iran.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\iran.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\italy-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\italy-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\italy.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\italy.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\mexico.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\mexico.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\philipine.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\philipine.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\portugal.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\portugal.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\s-africa.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\s-africa.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\spain-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\spain-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\spain.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\spain.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\spanish-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\spanish-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\spanish.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\spanish.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\switzerland-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\switzerland-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\switzerland.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\switzerland.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\turkey-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\turkey-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\turkey.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\turkey.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\uk-sq.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\uk-sq.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\flags\\uk.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\flags\\uk.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\gfx\\error-404.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\gfx\\error-404.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\gfx\\error-504.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\gfx\\error-504.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\account-secure.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\account-secure.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\bills.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\bills.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\card-credit.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\card-credit.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\card-debit.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\card-debit.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\card-secure.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\card-secure.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\code-scan.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\code-scan.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\codes.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\codes.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\connect-secure.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\connect-secure.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\customize.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\customize.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\devices.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\devices.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\doc-checked.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\doc-checked.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\emails.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\emails.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\excel.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\excel.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-doc.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-doc.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-excel.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-excel.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-media.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-media.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-pdf.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-pdf.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-code-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-code-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-code.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-code.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-doc-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-doc-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-doc.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-doc.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-media-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-media-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-media.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-media.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-movie-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-movie-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-movie.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-movie.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-music-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-music-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-music.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-music.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-pdf-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-pdf-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-pdf.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-pdf.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-ppt-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-ppt-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-ppt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-ppt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-sheet-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-sheet-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-sheet.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-sheet.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-text-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-text-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-text.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-text.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-zip-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-zip-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-type-zip.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-type-zip.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-word.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-word.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\file-zip.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\file-zip.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\folder-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\folder-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\folder-secure-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\folder-secure-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\folder-secure.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\folder-secure.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\folder-shared-alt.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\folder-shared-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\folder-shared.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\folder-shared.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\folder.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\folder.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\help-desk.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\help-desk.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\id-back.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\id-back.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\id-front.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\id-front.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\invoice.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\invoice.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\kyc-dv.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\kyc-dv.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\kyc-nid.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\kyc-nid.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\kyc-pp.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\kyc-pp.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\loop.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\loop.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\password-secure.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\password-secure.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\plan-s1.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\plan-s1.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\plan-s2.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\plan-s2.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\plan-s3.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\plan-s3.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\product-cc.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\product-cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\product-ee.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\product-ee.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\product-ig.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\product-ig.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\product-pp.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\product-pp.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\product-sc.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\product-sc.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\profile.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\recheck.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\recheck.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\reports.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\reports.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\settings.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\settings.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\support-account.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\support-account.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\support-general.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\support-general.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\support-payment.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\support-payment.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\support-secure.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\support-secure.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\support.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\sync.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\sync.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\icons\\zip.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\icons\\zip.svg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\index.html",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\lms\\theme\\a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\lms\\theme\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\lms\\theme\\b.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\lms\\theme\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\lms\\theme\\c.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\lms\\theme\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\lms\\theme\\d.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\lms\\theme\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\lms\\theme\\e.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\lms\\theme\\e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\lms\\theme\\f.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\lms\\theme\\f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo-dark-small.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo-dark-small.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo-dark-small2x.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo-dark-small2x.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo-dark2x.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo-dark2x.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo-small.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo-small2x.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo-small2x.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\logo2x.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\logo2x.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\a.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\a.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\b.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\b.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\c.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\c.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\d.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\d.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\e.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\e.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\f.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\f.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\g.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\g.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\h.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\h.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\i.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\i.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\j.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\j.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-b.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-c.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-d.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-e.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-f.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-g.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\lg-h.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\lg-h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\product\\video-a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\product\\video-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\promo-a.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\promo-a.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\promo-a2x.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\promo-a2x.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\promo-b.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\promo-b.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\promo-b2x.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\promo-b2x.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\promo-c.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\promo-c.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\promo-c2x.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\promo-c2x.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\slide-a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\slide-a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\slide-b.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\slide-b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\slides\\slide-c.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\slides\\slide-c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\socials\\facebook.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\socials\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\socials\\medium.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\socials\\medium.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\socials\\twitter.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\socials\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\socials\\youtube.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\socials\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\b.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\c.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\d.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\e.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\f.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\g.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\stock\\h.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\stock\\h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\apps\\calendar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\apps\\calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\apps\\chats.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\apps\\chats.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\apps\\file-manager.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\apps\\file-manager.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\apps\\inbox.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\apps\\inbox.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\apps\\kanban.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\apps\\kanban.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\apps\\messages.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\apps\\messages.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\charts\\chart-analytics.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\charts\\chart-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\charts\\chart-ecommerce.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\charts\\chart-ecommerce.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\charts\\chart-lms.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\charts\\chart-lms.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\charts\\chart-sales.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\charts\\chart-sales.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\charts\\chart-widgets.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\charts\\chart-widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\editors.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\editors.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\example-chart.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\example-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\example-dragula.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\example-dragula.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\example-listbox.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\example-listbox.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\example-map.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\example-map.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\example-sweetalert.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\example-sweetalert.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\example-toastr.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\example-toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\example-tree.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\example-tree.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\datatable-btns.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\datatable-btns.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\dragula.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\dragula.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\dual-listbox.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\dual-listbox.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\editors\\quill.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\editors\\quill.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\editors\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\editors\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\editors\\summernote.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\editors\\summernote.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\editors\\tinymce.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\editors\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\jkanban.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\jkanban.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\jqvmap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\jqvmap.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\jstree.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\jstree.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\libs\\tagify.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\libs\\tagify.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jquery-steps\\jquery.steps.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jquery-steps\\jquery.steps.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jquery-steps\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jquery-steps\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\knob\\jquery.knob.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\knob\\jquery.knob.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\nioapp\\nioapp.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\nioapp\\nioapp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\js\\vendors\\prettify.js",
+      "PackagePath": "staticwebassets\\adminpanel\\js\\vendors\\prettify.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\_dashlite_variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\_dashlite_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\apps\\_asterisk.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\apps\\_asterisk.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\apps\\_attach.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\apps\\_attach.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\apps\\_chats.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\apps\\_chats.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\apps\\_file-manager.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\apps\\_file-manager.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\apps\\_inbox.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\apps\\_inbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\apps\\_messages.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\apps\\_messages.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\apps\\_reply-comment.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\apps\\_reply-comment.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_components.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_dark-skin.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_dark-skin.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_layouts.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_misc.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_mode-override.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_mode-override.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_pages.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_preview.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_style.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_style.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\_utilites.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\_utilites.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_accordions.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_accordions.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_alert.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_badge.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_block.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_block.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_data-list.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_data-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_feature.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_link.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_link.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_list.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_misc.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_modal.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_projects.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_projects.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_rating.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_rating.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_search.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_search.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_sliders.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_sliders.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_team.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_text.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_title.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_title.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_toggle.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_toggle.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_users.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_users.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\components\\_wgm.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\components\\_wgm.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\fonts\\_dmsans.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\fonts\\_dmsans.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\layouts\\_base.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\layouts\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\layouts\\_footer.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\layouts\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\layouts\\_header.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\layouts\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\layouts\\_menu-main.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\layouts\\_menu-main.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\layouts\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\layouts\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\layouts\\_split.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\layouts\\_split.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\pages\\auths\\base.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\pages\\auths\\base.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\pages\\errors\\base.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\pages\\errors\\base.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\pages\\misc.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\pages\\misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\utilites\\_noclass.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\utilites\\_noclass.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\utilites\\_reboot.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\utilites\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\utilites\\_sizing.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\utilites\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\core\\utilites\\_spacing.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\core\\utilites\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\dashlite.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\dashlite.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\editors\\quill.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\editors\\quill.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\editors\\summernote.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\editors\\summernote.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\editors\\tinymce.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\editors\\tinymce.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\_extend.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_alert.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_badge.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_button-group.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_grid.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_link.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_link.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_media.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_modal.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_progress.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\components\\_toast.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\components\\_toast.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_background.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_borders.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_common.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_flex.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_position.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_reboot.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_sizing.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_spacing.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_text.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_type.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\extend\\bootstrap\\utilites\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\_style.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\_style.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\comps\\_profiles.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\comps\\_profiles.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\comps\\_tb-compact.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\comps\\_tb-compact.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\comps\\_tb-odr.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\comps\\_tb-odr.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\comps\\_tb-tnx.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\comps\\_tb-tnx.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\comps\\_wizard.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\comps\\_wizard.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\tables\\_base.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\tables\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_analytic.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_analytic.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_db-invest.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_db-invest.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_ecommerce.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_ecommerce.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_gallery.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_invoice.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_invoice.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_misc.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_pricing.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_products.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_products.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\global\\wgs\\_timeline.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\global\\wgs\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\libs\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\libs\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\libs\\fontawesome-icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\libs\\fontawesome-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\libs\\jstree.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\libs\\jstree.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\libs\\themify-icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\libs\\themify-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\_variable_blue.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\_variable_blue.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\_variable_bluelite.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\_variable_bluelite.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\_variable_egyptian.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\_variable_egyptian.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\_variable_green.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\_variable_green.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\_variable_red.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\_variable_red.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\theme-blue.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\theme-blue.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\theme-bluelite.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\theme-bluelite.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\theme-egyptian.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\theme-egyptian.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\theme-green.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\theme-green.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\skins\\theme-red.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\skins\\theme-red.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\style-email.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\style-email.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\theme.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_dragula.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_dragula.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_fullcalendar.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_fullcalendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_jkanban.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_jkanban.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_jqvmap.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_jqvmap.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_map.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_map.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_prettify.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_prettify.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_simplebar.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_simplebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\_tagify.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\_tagify.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\bootstrap-icons\\_bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\bootstrap-icons\\_bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\bundle.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\bundle.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\datatable\\_buttons.bootstrap4.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\datatable\\_buttons.bootstrap4.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\datatable\\_datatable.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\datatable\\_datatable.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\datepicker\\_bootstrap-datepicker.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\datepicker\\_bootstrap-datepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\dropzone\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\dropzone\\_dropzone.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\dual-listbox\\_dual-listbox.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\dual-listbox\\_dual-listbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_animated.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_core.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_larger.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_list.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_mixins.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_shims.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_stacked.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\brands.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\regular.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\solid.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\fontawesome\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\fontawesome\\v4-shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\jsTree\\_style.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\jsTree\\_style.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\magnific-popup\\_main.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\magnific-popup\\_main.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\magnific-popup\\_settings.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\magnific-popup\\_settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\nioicon\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\nioicon\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\nioicon\\nioicon.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\nioicon\\nioicon.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\nouislider\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\nouislider\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\quill\\_quill.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\quill\\_quill.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\_multiple.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\_multiple.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\_single.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\_single.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\core.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\theme\\default\\_multiple.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\theme\\default\\_multiple.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\theme\\default\\_single.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\theme\\default\\_single.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\select2\\theme\\default\\layout.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\select2\\theme\\default\\layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\slick\\_slick.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\slick\\_slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\summernote\\_elements.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\summernote\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\summernote\\_summernote-bs4.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\summernote\\_summernote-bs4.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\summernote\\_summernote-common.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\summernote\\_summernote-common.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\summernote\\_summernote-icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\summernote\\_summernote-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\_sweetalert2.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\_sweetalert2.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_animations.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_body.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_body.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_polyfills.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_polyfills.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_theming.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_theming.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_toasts-animations.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_toasts-animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_toasts-body.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_toasts-body.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\sweetalert2\\variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\sweetalert2\\variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\themify-icons\\_themify-icons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\themify-icons\\_themify-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\timepicker\\_jquery.timepicker.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\timepicker\\_jquery.timepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\tinymce\\_content.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\tinymce\\_content.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\tinymce\\ui\\_content.inline.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\tinymce\\ui\\_content.inline.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\tinymce\\ui\\_content.mobile.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\tinymce\\ui\\_content.mobile.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\tinymce\\ui\\_content.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\tinymce\\ui\\_content.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\tinymce\\ui\\_skin.mobile.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\tinymce\\ui\\_skin.mobile.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\tinymce\\ui\\_skin.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\tinymce\\ui\\_skin.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\scss\\vendors\\toastr\\_toastr.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\scss\\vendors\\toastr\\_toastr.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-13.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-14.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-15.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-16.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\gallery\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PhotoPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PhotoPortfolio.props",
+      "PackagePath": "build\\PhotoPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PhotoPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\PhotoPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PhotoPortfolio.props",
+      "PackagePath": "buildTransitive\\PhotoPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

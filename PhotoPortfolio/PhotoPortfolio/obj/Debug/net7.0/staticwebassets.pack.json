@@ -413,6 +413,18 @@
       "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\scripts.js"
     },
     {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\392b0e92-deb2-4191-b866-03ed894e3928.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\392b0e92-deb2-4191-b866-03ed894e3928.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\5b03fc35-de29-48ab-86c1-99007e3d1617.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\5b03fc35-de29-48ab-86c1-99007e3d1617.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\63794fa0-7040-422c-957b-d2b365f2c578.png",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\63794fa0-7040-422c-957b-d2b365f2c578.png"
+    },
+    {
       "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\avatar\\a-sm.jpg",
       "PackagePath": "staticwebassets\\adminpanel\\images\\avatar\\a-sm.jpg"
     },

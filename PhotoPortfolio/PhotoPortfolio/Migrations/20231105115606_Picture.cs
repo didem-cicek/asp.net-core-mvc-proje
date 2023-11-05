@@ -5,7 +5,7 @@
 namespace PhotoPortfolio.Migrations
 {
     /// <inheritdoc />
-    public partial class Connection : Migration
+    public partial class Picture : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

@@ -1,4 +1,4 @@
-﻿namespace PhotoPortfolio.Areas.adminpanel.Models
+﻿namespace PhotoPortfolio.Areas.adminpanel.ViewModels
 {
     public class LoginViewModel
     {

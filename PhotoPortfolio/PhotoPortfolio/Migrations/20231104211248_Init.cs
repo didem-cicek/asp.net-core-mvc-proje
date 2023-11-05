@@ -17,10 +17,7 @@ namespace PhotoPortfolio.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    AboutPageTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    AboutPageContent = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    PageImgUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    PageImgUrl = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -77,7 +74,8 @@ namespace PhotoPortfolio.Migrations
                     User = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Jop = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ProfileUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Rating = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Rating = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PublishDate = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -90,8 +88,6 @@ namespace PhotoPortfolio.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    ContactPageTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ContactPageContent = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     AddressTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     EmailTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -132,6 +128,20 @@ namespace PhotoPortfolio.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "HomePages",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    ButtonTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    ButtonURL = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_HomePages", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Photos",
                 columns: table => new
                 {
@@ -139,7 +149,8 @@ namespace PhotoPortfolio.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     PhotoUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PublishDate = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -152,8 +163,6 @@ namespace PhotoPortfolio.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    ServicesPageTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ServicePageContent = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ServiceTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ServiceDescription = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ServicePrice = table.Column<double>(type: "float", nullable: false),
@@ -278,6 +287,7 @@ namespace PhotoPortfolio.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     GalleryPageTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     GalleryPageContent = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PublishDate = table.Column<DateTime>(type: "datetime2", nullable: false),
                     GalleryCategoryId = table.Column<int>(type: "int", nullable: false),
                     ProjectUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ProjectName = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -299,6 +309,49 @@ namespace PhotoPortfolio.Migrations
                         name: "FK_Galleries_Photos_PhotoId",
                         column: x => x.PhotoId,
                         principalTable: "Photos",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Pages",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    PageTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PageContent = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Publishdate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    AboutId = table.Column<int>(type: "int", nullable: false),
+                    ContactId = table.Column<int>(type: "int", nullable: false),
+                    ServiceId = table.Column<int>(type: "int", nullable: false),
+                    HomePageId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Pages", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Pages_Abouts_AboutId",
+                        column: x => x.AboutId,
+                        principalTable: "Abouts",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Pages_Contacts_ContactId",
+                        column: x => x.ContactId,
+                        principalTable: "Contacts",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Pages_HomePages_HomePageId",
+                        column: x => x.HomePageId,
+                        principalTable: "HomePages",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_Pages_Services_ServiceId",
+                        column: x => x.ServiceId,
+                        principalTable: "Services",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
@@ -351,14 +404,31 @@ namespace PhotoPortfolio.Migrations
                 name: "IX_Galleries_PhotoId",
                 table: "Galleries",
                 column: "PhotoId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Pages_AboutId",
+                table: "Pages",
+                column: "AboutId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Pages_ContactId",
+                table: "Pages",
+                column: "ContactId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Pages_HomePageId",
+                table: "Pages",
+                column: "HomePageId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Pages_ServiceId",
+                table: "Pages",
+                column: "ServiceId");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropTable(
-                name: "Abouts");
-
             migrationBuilder.DropTable(
                 name: "AspNetRoleClaims");
 
@@ -378,16 +448,13 @@ namespace PhotoPortfolio.Migrations
                 name: "Comments");
 
             migrationBuilder.DropTable(
-                name: "Contacts");
-
-            migrationBuilder.DropTable(
                 name: "Footers");
 
             migrationBuilder.DropTable(
                 name: "Galleries");
 
             migrationBuilder.DropTable(
-                name: "Services");
+                name: "Pages");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");
@@ -400,6 +467,18 @@ namespace PhotoPortfolio.Migrations
 
             migrationBuilder.DropTable(
                 name: "Photos");
+
+            migrationBuilder.DropTable(
+                name: "Abouts");
+
+            migrationBuilder.DropTable(
+                name: "Contacts");
+
+            migrationBuilder.DropTable(
+                name: "HomePages");
+
+            migrationBuilder.DropTable(
+                name: "Services");
         }
     }
 }

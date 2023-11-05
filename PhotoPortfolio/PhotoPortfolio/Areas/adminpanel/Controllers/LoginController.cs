@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using PhotoPortfolio.Areas.adminpanel.Models;
+using PhotoPortfolio.Areas.adminpanel.ViewModels;
 using PhotoPortfolio.Models;
 
 namespace PhotoPortfolio.Areas.adminpanel.Controllers
@@ -9,13 +9,13 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
     public class LoginController : Controller
     {
         
-        private readonly SignInManager<AppUser> signInManager;
-        private readonly UserManager<AppUser> userManager;
+        private readonly SignInManager<AppUser> _signInManager;
+        private readonly UserManager<AppUser> _userManager;
 
         public LoginController(SignInManager<AppUser> signInManager, UserManager<AppUser> userManager)
         {
-            this.signInManager = signInManager;
-            this.userManager = userManager;
+            _signInManager = signInManager;
+            _userManager = userManager;
         }
         
         [HttpGet]
@@ -29,7 +29,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
         {
             if (ModelState.IsValid)
             {
-                var result = await signInManager.PasswordSignInAsync(model.UserName, model.Password, false, true);
+                var result = await _signInManager.PasswordSignInAsync(model.UserName, model.Password, false, true);
                 if (result.Succeeded)
                 {
                     return RedirectToAction("Index", "Home");
@@ -51,10 +51,11 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
                 {
                     UserName = model.Name,
                     Email = model.Email,
+                    PhoneNumber = model.Phone
                 };
-                var result = await userManager.CreateAsync(appuser, model.Password);
-                if (result.Succeeded) { 
-                    RedirectToAction("Index", "Login");
+                var result = await _userManager.CreateAsync(appuser, model.Password);
+                if (result.Succeeded) {
+                    return RedirectToAction("Index", "Login");
                 }
             }
             return View();

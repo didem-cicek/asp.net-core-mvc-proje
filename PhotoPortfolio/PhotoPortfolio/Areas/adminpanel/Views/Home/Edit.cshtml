@@ -1,0 +1,77 @@
+﻿@model HomeViewModel
+<div class="card">
+    <div class="card-inner">
+        <div class="card-head">
+            <h5 class="card-title">Website Setting</h5>
+        </div>
+        <form method="post" class="gy-3">
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label" for="site-name">Title</label>
+                        <span class="form-note">You could write title here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.Title">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Description</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.Description">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Button Title</label>
+                        <span class="form-note">You can write button name here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.ButtonTitle">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Allow Registration</label>
+                        <span class="form-note">Enable or disable registration from site.</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.ButtonURL">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3">
+                <div class="col-lg-7 offset-lg-5">
+                    <div class="form-group mt-2">
+                        <button type="submit" class="btn btn-lg btn-primary">Düzenle</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div><!-- card -->

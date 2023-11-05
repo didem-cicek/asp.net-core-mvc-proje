@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <Folder Include="Areas\adminpanel\Data\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>

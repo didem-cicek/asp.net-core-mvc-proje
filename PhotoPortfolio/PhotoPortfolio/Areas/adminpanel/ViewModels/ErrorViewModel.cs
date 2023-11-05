@@ -1,4 +1,4 @@
-namespace PhotoPortfolio.Models
+namespace PhotoPortfolio.Areas.adminpanel.ViewModels
 {
     public class ErrorViewModel
     {

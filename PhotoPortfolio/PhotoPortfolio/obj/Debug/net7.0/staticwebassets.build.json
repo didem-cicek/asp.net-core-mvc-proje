@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HKtLldL5U+/zkyq/y9dpud7eMYqKqObwIDChGKtm18I=",
+  "Hash": "ZMUBZb9iAmLmg7MI4YCWLPl8Vdd4gqLPNbcnFbphOTU=",
   "Source": "PhotoPortfolio",
   "BasePath": "_content/PhotoPortfolio",
   "Mode": "Default",
@@ -1783,6 +1783,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\adminpanel\\assets\\js\\scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\058d1b41-5655-4c14-a5a3-e38e5a5958ab.png",
+      "SourceId": "PhotoPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\",
+      "BasePath": "_content/PhotoPortfolio",
+      "RelativePath": "adminpanel/images/058d1b41-5655-4c14-a5a3-e38e5a5958ab.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\adminpanel\\images\\058d1b41-5655-4c14-a5a3-e38e5a5958ab.png"
     },
     {
       "Identity": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\392b0e92-deb2-4191-b866-03ed894e3928.png",

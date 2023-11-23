@@ -19,24 +19,26 @@ namespace PhotoPortfolio.Controllers
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            var result = await _context.HomePages.ToListAsync();
-            var model = result.Select(x => new HomeViewModel()
+            var model = new HomeVM();
+            var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "HomePage");
+            if (result !=null)
             {
-                Title = x.Pages.PageTitle,
-                Description = x.Pages.PageContent,
-                ButtonTitle = x.ButtonTitle,
-                ButtonURL = x.ButtonURL,
-            }).ToList();
+                model.Title = result.PageTitle;
+                model.Description = result.PageDescription;
+                model.ButtonTitle = result.ButtonTitle;
+                model.ButtonURL = result.ButtonURL;
+                return View(model);
+            }
+            
             return View(model);
         }
 
         public async Task<IActionResult> About(AboutPageViewModel model)
         {
-            var result = await _context.Abouts.FirstOrDefaultAsync();
-            var result2 = await _context.Pages.FirstOrDefaultAsync(x => x.Id == result.PagesId);
-            model.Title = result2.PageTitle;
-            model.Description = result2.PageContent;
-            model.PageImgUrl = result.PageImgUrl;
+            //var result2 = await _context.Pages.FirstOrDefaultAsync(x => x.PageTitle ==);
+            //model.Title = result2.PageTitle;
+            //model.Description = result2.PageContent;
+            //model.PageImgUrl = result.PageImgUrl;
             return View(model);
         }
 
@@ -45,10 +47,5 @@ namespace PhotoPortfolio.Controllers
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }

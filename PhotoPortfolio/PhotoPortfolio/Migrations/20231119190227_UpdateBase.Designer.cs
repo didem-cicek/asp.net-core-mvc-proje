@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PhotoPortfolio.Models;
 
@@ -11,9 +12,11 @@ using PhotoPortfolio.Models;
 namespace PhotoPortfolio.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231119190227_UpdateBase")]
+    partial class UpdateBase
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -276,40 +279,39 @@ namespace PhotoPortfolio.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("AboutImgUrl")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Address")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("AddressTitle")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("AppUserId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("AppUserId1")
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<string>("ButtonTitle")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ButtonURL")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("EmailTitle")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Icon")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("LayoutName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PageContent")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PageDescription")
@@ -321,26 +323,28 @@ namespace PhotoPortfolio.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Phone")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PhoneTitle")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("Publishdate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("ServiceDescription")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<double?>("ServicePrice")
+                    b.Property<double>("ServicePrice")
                         .HasColumnType("float");
 
                     b.Property<string>("ServiceTitle")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("AppUserId1");
 
                     b.ToTable("Pages");
                 });
@@ -497,15 +501,6 @@ namespace PhotoPortfolio.Migrations
                         .IsRequired();
 
                     b.Navigation("Categories");
-                });
-
-            modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.Pages", b =>
-                {
-                    b.HasOne("PhotoPortfolio.Models.AppUser", "AppUser")
-                        .WithMany()
-                        .HasForeignKey("AppUserId1");
-
-                    b.Navigation("AppUser");
                 });
 
             modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.GalleryCategory", b =>

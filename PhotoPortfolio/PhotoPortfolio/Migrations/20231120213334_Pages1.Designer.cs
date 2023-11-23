@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PhotoPortfolio.Models;
 
@@ -11,9 +12,11 @@ using PhotoPortfolio.Models;
 namespace PhotoPortfolio.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231120213334_Pages1")]
+    partial class Pages1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -284,12 +287,6 @@ namespace PhotoPortfolio.Migrations
                     b.Property<string>("AddressTitle")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("AppUserId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("AppUserId1")
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<string>("ButtonTitle")
                         .HasColumnType("nvarchar(max)");
 
@@ -339,8 +336,6 @@ namespace PhotoPortfolio.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("AppUserId1");
 
                     b.ToTable("Pages");
                 });
@@ -497,15 +492,6 @@ namespace PhotoPortfolio.Migrations
                         .IsRequired();
 
                     b.Navigation("Categories");
-                });
-
-            modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.Pages", b =>
-                {
-                    b.HasOne("PhotoPortfolio.Models.AppUser", "AppUser")
-                        .WithMany()
-                        .HasForeignKey("AppUserId1");
-
-                    b.Navigation("AppUser");
                 });
 
             modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.GalleryCategory", b =>

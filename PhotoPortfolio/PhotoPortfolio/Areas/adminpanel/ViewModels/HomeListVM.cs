@@ -2,12 +2,12 @@
 
 namespace PhotoPortfolio.Areas.adminpanel.ViewModels
 {
-    public class HomeListViewModel
+    public class HomeListVM
     {
-        public int? Id { get; set; }
+        public int Id { get; set; }
         public string? PageTitle { get; set; }
         public string? PageContent { get; set; }
         public DateTime? Publishdate { get; set; }
-
+        public string UserName { get; set; }
     }
 }

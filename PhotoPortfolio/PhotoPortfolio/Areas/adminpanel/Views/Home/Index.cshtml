@@ -1,4 +1,4 @@
-﻿@model List<HomeListViewModel>
+﻿@model List<HomeListVM>
 <div class="nk-content ">
     <div class="container-fluid">
         <div class="nk-content-inner">
@@ -93,7 +93,7 @@
                                                         <span></span>
                                                     </div>
                                                     <div class="user-info">
-                                                        <span class="tb-lead">Abu Bin Ishtiyak <span class="dot dot-success d-md-none ms-1"></span></span>
+                                                            <span class="tb-lead">@item.UserName <span class="dot dot-success d-md-none ms-1"></span></span>
                                                         <span>info@softnio.com</span>
                                                     </div>
                                                 </div>
@@ -128,8 +128,8 @@
                                                         <a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-bs-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <ul class="link-list-opt no-bdr">
-                                                                <li><a href="html/lms/instructor-details.html"><em class="icon ni ni-eye"></em><span>View Details</span></a></li>
-                                                                <li><a href="#"><em class="icon ni ni-activity-round"></em><span>Activities</span></a></li>
+                                                                    <li>@Html.ActionLink("Düzelt", "Edit", "About", new { id = item.Id })</li>
+                                                                    <li>@Html.ActionLink("Düzelt", "Delete", "About", new { id = item.Id })</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -194,3 +194,6 @@
         </div>
     </div>
 </div>
+<!-- JavaScript -->
+<script src="~/adminpanel/assets/js/bundle.js?ver=3.0.0"></script>
+<script src="~/adminpanel/assets/js/scripts.js?ver=3.0.0"></script>

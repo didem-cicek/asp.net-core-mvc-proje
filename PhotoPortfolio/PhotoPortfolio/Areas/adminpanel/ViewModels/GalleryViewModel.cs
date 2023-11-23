@@ -1,19 +1,21 @@
-﻿namespace PhotoPortfolio.Areas.adminpanel.Models
+﻿using PhotoPortfolio.Areas.adminpanel.Models;
+
+namespace PhotoPortfolio.Areas.adminpanel.ViewModels
 {
-    public class Gallery : Base
+    public class GalleryViewModel
     {
         public string GalleryPageTitle { get; set; }
         public string GalleryPageContent { get; set; }
         public DateTime PublishDate { get; set; }
-        public int GalleryCategoryId { get; set; }
-        public GalleryCategory Categories { get; set; }
+        public string CategoryName { get; set; }
+        public int CategoryId { get; set; }
         public string ProjectUrl { get; set; }
         public string ProjectName { get; set; }
         public string ProjectDescription { get; set; }
         public string Client { get; set; }
         public string ClientNote { get; set; }
-        public string PhotoUrl { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
+        public int PhotoId { get; set; }
+        public string PhotoName { get; set; }
+        public IFormFile PhotoURL { get; set; }
     }
 }

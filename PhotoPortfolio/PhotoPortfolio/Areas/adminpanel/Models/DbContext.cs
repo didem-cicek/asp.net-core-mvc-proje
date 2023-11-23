@@ -10,17 +10,10 @@ namespace PhotoPortfolio.Models
     {
         public AppDbContext(DbContextOptions<AppDbContext> opt) : base(opt){}
 
-
-        public DbSet<About> Abouts { get; set; }
-        public DbSet<Contact> Contacts { get; set; }
         public DbSet<Footer> Footers { get; set; }
         public DbSet<Gallery> Galleries { get; set; }
         public DbSet<GalleryCategory> GalleryCategories { get; set; }
-        public DbSet<Photo> Photos { get; set; }
-        public DbSet<Service> Services { get; set; }
         public DbSet<Comment> Comments { get; set; }
-        public DbSet<HomePage> HomePages { get; set; }
         public DbSet<Pages> Pages { get; set; }
-
     }
 }

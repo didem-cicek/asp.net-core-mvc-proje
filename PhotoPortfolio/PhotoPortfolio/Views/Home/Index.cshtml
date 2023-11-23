@@ -1,18 +1,15 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-@model List<HomeViewModel>
+@model HomeVM
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="hero d-flex flex-column justify-content-center align-items-center" data-aos="fade" data-aos-delay="1500">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
-                @foreach(var item in Model){
-                    <h2>@item.Title</h2>
-                    <p>@item.Description</p>
-                    <a href="@item.ButtonURL" class="btn-get-started">@item.ButtonTitle</a>
-                    break;
-                }
+                <h2>@Model.Title</h2>
+                <p>@Model.Description</p>
+                <a href="@Model.ButtonURL" class="btn-get-started">@Model.ButtonTitle</a>
             </div>
         </div>
     </div>

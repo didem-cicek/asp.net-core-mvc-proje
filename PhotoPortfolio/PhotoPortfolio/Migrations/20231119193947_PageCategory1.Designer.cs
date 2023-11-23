@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PhotoPortfolio.Models;
 
@@ -11,9 +12,11 @@ using PhotoPortfolio.Models;
 namespace PhotoPortfolio.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231119193947_PageCategory1")]
+    partial class PageCategory1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -267,6 +270,23 @@ namespace PhotoPortfolio.Migrations
                     b.ToTable("GalleryCategories");
                 });
 
+            modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.PageCategory", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("PageCategories");
+                });
+
             modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.Pages", b =>
                 {
                     b.Property<int>("Id")
@@ -276,40 +296,42 @@ namespace PhotoPortfolio.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("AboutImgUrl")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Address")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("AddressTitle")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("AppUserId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("AppUserId1")
-                        .HasColumnType("nvarchar(450)");
-
-                    b.Property<string>("ButtonTitle")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("ButtonURL")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Email")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("EmailTitle")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Icon")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("LayoutName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AddressTitle")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ButtonTitle")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ButtonURL")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EmailTitle")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Icon")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("PageCategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("PageContent")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PageDescription")
@@ -321,26 +343,30 @@ namespace PhotoPortfolio.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Phone")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PhoneTitle")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("Publishdate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("ServiceDescription")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<double?>("ServicePrice")
+                    b.Property<double>("ServicePrice")
                         .HasColumnType("float");
 
                     b.Property<string>("ServiceTitle")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("AppUserId1");
+                    b.HasIndex("PageCategoryId");
 
                     b.ToTable("Pages");
                 });
@@ -501,16 +527,23 @@ namespace PhotoPortfolio.Migrations
 
             modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.Pages", b =>
                 {
-                    b.HasOne("PhotoPortfolio.Models.AppUser", "AppUser")
-                        .WithMany()
-                        .HasForeignKey("AppUserId1");
+                    b.HasOne("PhotoPortfolio.Areas.adminpanel.Models.PageCategory", "PageCategory")
+                        .WithMany("Pages")
+                        .HasForeignKey("PageCategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
-                    b.Navigation("AppUser");
+                    b.Navigation("PageCategory");
                 });
 
             modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.GalleryCategory", b =>
                 {
                     b.Navigation("Gallery");
+                });
+
+            modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.PageCategory", b =>
+                {
+                    b.Navigation("Pages");
                 });
 #pragma warning restore 612, 618
         }

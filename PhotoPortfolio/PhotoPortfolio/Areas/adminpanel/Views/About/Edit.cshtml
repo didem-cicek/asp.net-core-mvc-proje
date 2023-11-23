@@ -1,10 +1,10 @@
-﻿@model HomeEditVM
+﻿@model AboutEditViewModel
 <div class="card">
     <div class="card-inner">
         <div class="card-head">
             <h5 class="card-title">Website Setting</h5>
         </div>
-        <form method="post" class="gy-3">
+        <form method="post" enctype="multipart/form-data">
             <div class="row g-3 align-center">
                 <div class="col-lg-5">
                     <div class="form-group">
@@ -45,22 +45,7 @@
                 <div class="col-lg-7">
                     <div class="form-group">
                         <div class="form-control-wrap">
-                            <input type="text" class="form-control" asp-for="@Model.ButtonTitle">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-3 align-center">
-                <div class="col-lg-5">
-                    <div class="form-group">
-                        <label class="form-label">Allow Registration</label>
-                        <span class="form-note">Enable or disable registration from site.</span>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="form-group">
-                        <div class="form-control-wrap">
-                            <input type="text" class="form-control" asp-for="@Model.ButtonURL">
+                            <input type="file" class="form-control" asp-for="PageImgUrl" name="PageImgUrl">
                         </div>
                     </div>
                 </div>

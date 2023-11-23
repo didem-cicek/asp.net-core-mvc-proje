@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5wYW5lbFxWaWV3c1xBYm91dFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/didem/Documents/GitHub/asp.net-core-mvc-proje/PhotoPortfolio/PhotoPortfolio/Areas/adminpanel/Views/About/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5wYW5lbFxWaWV3c1xBYm91dFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didem/Documents/GitHub/asp.net-core-mvc-proje/PhotoPortfolio/PhotoPortfolio/Areas/adminpanel/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5wYW5lbFxWaWV3c1xIb21lXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/didem/Documents/GitHub/asp.net-core-mvc-proje/PhotoPortfolio/PhotoPortfolio/Areas/adminpanel/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5wYW5lbFxWaWV3c1xIb21lXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

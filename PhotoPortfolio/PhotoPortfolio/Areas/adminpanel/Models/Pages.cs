@@ -10,6 +10,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Models
         public string? PageContent { get; set; }
         public string? ButtonTitle { get; set; }
         public string? ButtonURL { get; set; }
+        public string? AboutTitle { get; set; }
         public string? AboutImgUrl { get; set; }
         public string? AddressTitle { get; set; }
         public string? Address { get; set; }

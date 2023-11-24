@@ -31,12 +31,12 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
                 var currentUser = await _userManager.FindByNameAsync(User.Identity.Name);
                 var model = result.Select(x => new HomeListVM()
                 {
-                    PageTitle = x.PageTitle,
-                    PageContent = x.PageDescription,
-                    Publishdate = x.Publishdate,
+                    PageT = x.PageTitle,
+                    PageDescription = x.PageDescription,
+                    PublishDate = x.Publishdate,
                     Id = x.Id,
                     UserName = currentUser.UserName, 
-                }).OrderBy(x => x.PageTitle).ToList();
+                }).OrderBy(x => x.PageT).ToList();
                 TempData["UserName"] = currentUser.UserName;
 
                 return View(model);
@@ -52,11 +52,11 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
             {
                 var model = result.Select(x => new HomeListVM()
                 {
-                    PageTitle = x.PageTitle,
-                    PageContent = x.PageDescription,
-                    Publishdate = x.Publishdate,
+                    PageT = x.PageTitle,
+                    PageDescription = x.PageDescription,
+                    PublishDate = x.Publishdate,
                     Id = x.Id,
-                }).OrderBy(x => x.PageTitle).ToList();
+                }).OrderBy(x => x.PageT).ToList();
 
                 return View(model);
             }
@@ -74,12 +74,12 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
             var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "HomePage");
             if (result == null)
             {
-                result.PageTitle = home.Title;
-                result.PageDescription = home.Description;
-                result.ButtonTitle = home.ButtonTitle;
-                result.ButtonURL = home.ButtonURL;
-                result.Publishdate = DateTime.Now;
-                result.LayoutName = "HomePage";
+                pages.PageTitle = home.PageT;
+                pages.PageDescription = home.PageDescription;
+                pages.ButtonTitle = home.PageButtonTitle;
+                pages.ButtonURL = home.PageButtonURL;
+                pages.Publishdate = DateTime.Now;
+                pages.LayoutName = "HomePage";
                 await _context.AddAsync(pages);
                 await _context.SaveChangesAsync();
 
@@ -98,10 +98,10 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
 
             if (result != null)
             {
-                home.Title = result.PageTitle;
-                home.Description = result.PageDescription;
-                home.ButtonTitle = result.ButtonTitle;
-                home.ButtonURL = result.ButtonURL;
+                home.PageT = result.PageTitle;
+                home.PageDescription = result.PageDescription;
+                home.PageButtonTitle = result.ButtonTitle;
+                home.PageButtonURL = result.ButtonURL;
                 home.PublishDate = result.Publishdate;
 
                 return View(home);
@@ -117,10 +117,10 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
 
             if (result != null)
             {
-                result.PageTitle = home.Title;
-                result.PageDescription = home.Description;
-                result.ButtonTitle = home.ButtonTitle;
-                result.ButtonURL = home.ButtonURL;
+                result.PageTitle = home.PageT;
+                result.PageDescription = home.PageDescription;
+                result.ButtonTitle = home.PageButtonTitle;
+                result.ButtonURL = home.PageButtonURL;
                 result.Publishdate = DateTime.Now;
                 _context.Update(result);
                 await _context.SaveChangesAsync();

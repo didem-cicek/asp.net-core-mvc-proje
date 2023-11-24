@@ -205,10 +205,6 @@ namespace PhotoPortfolio.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<int>("GalleryCategoryId")
                         .HasColumnType("int");
 
@@ -220,9 +216,8 @@ namespace PhotoPortfolio.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("PhotoUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("PhotoId")
+                        .HasColumnType("int");
 
                     b.Property<string>("ProjectDescription")
                         .IsRequired()
@@ -239,13 +234,11 @@ namespace PhotoPortfolio.Migrations
                     b.Property<DateTime>("PublishDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Title")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("Id");
 
                     b.HasIndex("GalleryCategoryId");
+
+                    b.HasIndex("PhotoId");
 
                     b.ToTable("Galleries");
                 });
@@ -257,6 +250,10 @@ namespace PhotoPortfolio.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CategoryDescription")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("CategoryName")
                         .IsRequired()
@@ -276,6 +273,9 @@ namespace PhotoPortfolio.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("AboutImgUrl")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("AboutTitle")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Address")
@@ -343,6 +343,27 @@ namespace PhotoPortfolio.Migrations
                     b.HasIndex("AppUserId1");
 
                     b.ToTable("Pages");
+                });
+
+            modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.Photo", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("PhotoName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhotoUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Photos");
                 });
 
             modelBuilder.Entity("PhotoPortfolio.Models.AppRole", b =>
@@ -496,7 +517,15 @@ namespace PhotoPortfolio.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("PhotoPortfolio.Areas.adminpanel.Models.Photo", "Photo")
+                        .WithMany("Gallery")
+                        .HasForeignKey("PhotoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Categories");
+
+                    b.Navigation("Photo");
                 });
 
             modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.Pages", b =>
@@ -509,6 +538,11 @@ namespace PhotoPortfolio.Migrations
                 });
 
             modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.GalleryCategory", b =>
+                {
+                    b.Navigation("Gallery");
+                });
+
+            modelBuilder.Entity("PhotoPortfolio.Areas.adminpanel.Models.Photo", b =>
                 {
                     b.Navigation("Gallery");
                 });

@@ -1,0 +1,158 @@
+﻿@model GalleryCreateVM
+<div class="card">
+    <div class="card-inner">
+        <div class="card-head">
+            <h5 class="card-title">Website Setting</h5>
+        </div>
+        <form method="post" enctype="multipart/form-data">
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label" for="site-name">Page Title</label>
+                        <span class="form-note">You could write title here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.GalleryPageTitle">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Page Description</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.GalleryPageContent">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Project Title</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.ProjectName">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Project Description</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.ProjectDescription">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Category Name</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.CategoryName">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">About Image</label>
+                        <span class="form-note">You can write button name here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="file" class="form-control" asp-for="Photos" name="Photos" multiple>
+                        </div>
+                           @*  @for (int i = 0; i < Model.Photos.Count; i++)
+                            {
+                                <div class="form-control-wrap">
+                                <input type="file" class="form-control" asp-for="Photos" name="Photos" multiple>
+                                </div>
+                            } *@
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Client</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.Client">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Client Note</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <textarea class="form-control" rows="5" asp-for="@Model.ClientNote"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Project URL</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <textarea class="form-control" rows="5" asp-for="@Model.ProjectUrl"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3">
+                <div class="col-lg-7 offset-lg-5">
+                    <div class="form-group mt-2">
+                        <button type="submit" class="btn btn-lg btn-primary">Ekle</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div><!-- card -->

@@ -3,6 +3,7 @@
     public class GalleryCategory : Base
     {
         public string CategoryName { get; set; }
+        public string CategoryDescription { get; set; }
         public ICollection<Gallery> Gallery { get; set; }
     }
 }

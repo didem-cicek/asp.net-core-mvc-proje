@@ -12,8 +12,7 @@
         public string ProjectDescription { get; set; }
         public string Client { get; set; }
         public string ClientNote { get; set; }
-        public string PhotoUrl { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
+        public int PhotoId { get; set; }
+        public Photo Photo { get; set; }
     }
 }

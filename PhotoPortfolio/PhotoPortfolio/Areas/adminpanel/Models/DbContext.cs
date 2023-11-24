@@ -15,5 +15,6 @@ namespace PhotoPortfolio.Models
         public DbSet<GalleryCategory> GalleryCategories { get; set; }
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Pages> Pages { get; set; }
+        public DbSet <Photo> Photos { get; set; }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using PhotoPortfolio.Areas.adminpanel.Models;
 using PhotoPortfolio.Areas.adminpanel.ViewModels;
 using PhotoPortfolio.Models;
 
@@ -20,20 +21,51 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
         {
             return View();
         }
-        public async Task<IActionResult> CategoryCreate()
+        [HttpGet]
+        public IActionResult Create()
         {
-            return View();
+            var vm = new GalleryCreateVM();
+             return View(vm);
         }
         [HttpPost]
-        public async Task<IActionResult> CategoryCreate(GalleryCategoryViewModel model)
+        public async Task<IActionResult> Create(GalleryCreateVM model)
         {
-            var pagesData = _context.GalleryCategories.Add(new() { CategoryName = model.CategoryName});
-            if (pagesData != null)
+            Gallery pages = new Gallery();
+            if (pages != null)
             {
-                _context.SaveChangesAsync();
+                pages.GalleryPageTitle = model.GalleryPageTitle;
+                pages.GalleryPageContent = model.GalleryPageContent;
+                pages.GalleryCategoryId = model.CategoryId;
+                pages.ProjectName = model.ProjectName;
+                pages.ProjectDescription = model.ProjectDescription;
+                pages.ProjectUrl = model.ProjectUrl;
+                pages.PublishDate = DateTime.Now;
+                pages.Client = model.Client;
+                pages.ClientNote = model.ClientNote;
+
+                if (model.Photos != null)
+                {
+                    for(int i = 0; i < model.Photos.Count; i++) { 
+                    var extension = Path.GetExtension(model.Photos[i].FileName);
+                    var newImageName = Guid.NewGuid() + extension;
+                    var webRootPath = _webHostEnvironment.WebRootPath;
+                    var location = Path.Combine(webRootPath, "adminpanel/images", newImageName);
+                    var stream = new FileStream(location, FileMode.Create);
+                    model.Photos[i].CopyTo(stream);
+                    pages.Photo = new Photo { PhotoUrl = newImageName, PhotoName = newImageName };
+                    await _context.AddAsync(pages);
+                    await _context.SaveChangesAsync();
+                    }
+
+                }
+                
+                return View(model);
             }
-           
-            return View(model);
+            else
+            {
+                return RedirectToAction("Edit", "About");
+            }
+
         }
 
     }

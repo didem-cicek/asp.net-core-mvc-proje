@@ -2,7 +2,7 @@
 
 namespace PhotoPortfolio.Areas.adminpanel.ViewModels
 {
-    public class GalleryViewModel
+    public class GalleryCreateVM
     {
         public string GalleryPageTitle { get; set; }
         public string GalleryPageContent { get; set; }
@@ -14,8 +14,6 @@ namespace PhotoPortfolio.Areas.adminpanel.ViewModels
         public string ProjectDescription { get; set; }
         public string Client { get; set; }
         public string ClientNote { get; set; }
-        public int PhotoId { get; set; }
-        public string PhotoName { get; set; }
-        public IFormFile PhotoURL { get; set; }
+        public List<IFormFile> Photos { get; set; } = new List<IFormFile>();
     }
 }

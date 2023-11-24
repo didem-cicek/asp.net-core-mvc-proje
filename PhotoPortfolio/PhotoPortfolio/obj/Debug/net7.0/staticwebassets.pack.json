@@ -417,8 +417,20 @@
       "PackagePath": "staticwebassets\\adminpanel\\images\\058d1b41-5655-4c14-a5a3-e38e5a5958ab.png"
     },
     {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\2e53a696-8f46-479a-a63f-c3145f690d4a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\2e53a696-8f46-479a-a63f-c3145f690d4a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\3044dfac-ad19-4798-b229-54081faf23b8.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\3044dfac-ad19-4798-b229-54081faf23b8.jpg"
+    },
+    {
       "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\392b0e92-deb2-4191-b866-03ed894e3928.png",
       "PackagePath": "staticwebassets\\adminpanel\\images\\392b0e92-deb2-4191-b866-03ed894e3928.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\5348c8c0-3624-40ae-8296-586b0390f03a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\5348c8c0-3624-40ae-8296-586b0390f03a.jpg"
     },
     {
       "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\5b03fc35-de29-48ab-86c1-99007e3d1617.png",
@@ -427,6 +439,26 @@
     {
       "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\63794fa0-7040-422c-957b-d2b365f2c578.png",
       "PackagePath": "staticwebassets\\adminpanel\\images\\63794fa0-7040-422c-957b-d2b365f2c578.png"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\7221b476-95fb-4fca-9973-fe0af98d4510.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\7221b476-95fb-4fca-9973-fe0af98d4510.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\805a0647-6781-454d-9a3e-1af73921260f.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\805a0647-6781-454d-9a3e-1af73921260f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\8bbb09b8-6601-4b14-b3ed-3bfc671ee859.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\8bbb09b8-6601-4b14-b3ed-3bfc671ee859.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\9a4ed948-2c82-44ac-9d5b-2a751de9e0d5.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\9a4ed948-2c82-44ac-9d5b-2a751de9e0d5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\a7521ae7-d6d8-40e9-bd5c-abc72b220e92.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\a7521ae7-d6d8-40e9-bd5c-abc72b220e92.jpg"
     },
     {
       "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\avatar\\a-sm.jpg",
@@ -443,6 +475,18 @@
     {
       "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\avatar\\d-sm.jpg",
       "PackagePath": "staticwebassets\\adminpanel\\images\\avatar\\d-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\b888f557-825c-4290-90da-43c0de7a9a27.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\b888f557-825c-4290-90da-43c0de7a9a27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\bdeef7dd-91dc-4ecd-b220-c43aa8e21e35.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\bdeef7dd-91dc-4ecd-b220-c43aa8e21e35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\c73f8646-34f0-46ae-a946-a4c991479b1a.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\images\\c73f8646-34f0-46ae-a946-a4c991479b1a.jpg"
     },
     {
       "Id": "C:\\Users\\didem\\Documents\\GitHub\\asp.net-core-mvc-proje\\PhotoPortfolio\\PhotoPortfolio\\wwwroot\\adminpanel\\images\\email\\kyc-pending.png",

@@ -4,23 +4,25 @@
 @model AboutPageViewModel
 <main id="main" data-aos="fade" data-aos-delay="1500">
 
-    <!-- ======= End Page Header ======= -->
-    <div class="page-header d-flex align-items-center">
-        <div class="container position-relative">
-            <div class="row d-flex justify-content-center">
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="hero d-flex flex-column justify-content-center align-items-center" data-aos="fade" data-aos-delay="1500">
+        <div class="container">
+            <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h2>@Model.Title</h2>
+                    <h2>@Model.PageT</h2>
+                    <p>@Model.PageDescription</p>
+                    <a href="@Model.PageButtonURL" class="btn-get-started">@Model.PageButtonTitle</a>
                 </div>
             </div>
         </div>
-    </div><!-- End Page Header -->
+    </section><!-- End Hero Section -->
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
         <div class="container">
 
             <div class="row gy-4 justify-content-center">
                 <div class="col-lg-4">
-                    <img src="~/adminpanel/images/@Model.PageImgUrl" class="img-fluid" alt="@Model.Title">
+                    <img src="~/adminpanel/images/@Model.PageImgUrl" class="img-fluid" alt="@Model.PageT">
                 </div>
                 <div class="col-lg-5 content">
                     <h2>@Model.Title</h2>

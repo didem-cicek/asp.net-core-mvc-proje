@@ -1,0 +1,47 @@
+﻿@model CategoryVM
+<div class="card">
+    <div class="card-inner">
+        <div class="card-head">
+            <h5 class="card-title">Website Setting</h5>
+        </div>
+        <form method="post" enctype="multipart/form-data">
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label" for="site-name">Category Name</label>
+                        <span class="form-note">You could write title here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.CategoryName">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label" for="site-name">Category Description</label>
+                        <span class="form-note">You could write title here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.CategoryDescription">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3">
+                <div class="col-lg-7 offset-lg-5">
+                    <div class="form-group mt-2">
+                        <button type="submit" class="btn btn-lg btn-primary">Ekle</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div><!-- card -->

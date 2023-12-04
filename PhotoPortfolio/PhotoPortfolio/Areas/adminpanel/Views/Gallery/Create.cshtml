@@ -75,7 +75,7 @@
                 <div class="col-lg-7">
                     <div class="form-group">
                         <div class="form-control-wrap">
-                            <input type="text" class="form-control" asp-for="@Model.CategoryName">
+                            <select class="form-control" asp-for="@Model.GalleryCategoryId" asp-items="@Model.GalleryCategory"></select>
                         </div>
                     </div>
                 </div>

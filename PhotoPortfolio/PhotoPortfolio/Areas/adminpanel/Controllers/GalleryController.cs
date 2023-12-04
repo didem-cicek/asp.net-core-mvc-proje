@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using PhotoPortfolio.Areas.adminpanel.Models;
 using PhotoPortfolio.Areas.adminpanel.ViewModels;
@@ -25,17 +26,25 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
         public IActionResult Create()
         {
             var vm = new GalleryCreateVM();
-             return View(vm);
+            vm.GalleryCategory = (from c in _context.GalleryCategories
+                             select new SelectListItem
+                             {
+                                 Text = c.CategoryName,
+                                 Value = c.Id.ToString(),
+                                 Selected = true
+                             }).ToList();
+            return View(vm);
         }
         [HttpPost]
         public async Task<IActionResult> Create(GalleryCreateVM model)
         {
             Gallery pages = new Gallery();
+            var c = await _context.GalleryCategories.FirstOrDefaultAsync(x => x.Id == model.GalleryCategoryId);
             if (pages != null)
             {
                 pages.GalleryPageTitle = model.GalleryPageTitle;
                 pages.GalleryPageContent = model.GalleryPageContent;
-                pages.GalleryCategoryId = model.CategoryId;
+                pages.GalleryCategoryId = c.Id;
                 pages.ProjectName = model.ProjectName;
                 pages.ProjectDescription = model.ProjectDescription;
                 pages.ProjectUrl = model.ProjectUrl;

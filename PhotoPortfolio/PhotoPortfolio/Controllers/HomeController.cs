@@ -20,7 +20,7 @@ namespace PhotoPortfolio.Controllers
         public async Task<IActionResult> Index()
         {
             var model = new HomeVM();
-            var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "HomePage");
+            var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "Home");
             if (result !=null)
             {
                 model.PageT = result.PageTitle;

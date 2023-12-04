@@ -1,6 +1,5 @@
 ﻿@model List<HomeListVM>
-<div class="nk-content ">
-    <div class="container-fluid">
+<div class="container-fluid">
         <div class="nk-content-inner">
             <div class="nk-content-body">
                 <div class="nk-block-head nk-block-head-sm">
@@ -94,7 +93,7 @@
                                                     </div>
                                                     <div class="user-info">
                                                             <span class="tb-lead">@item.UserName <span class="dot dot-success d-md-none ms-1"></span></span>
-                                                        <span>info@softnio.com</span>
+                                                        <span>@item.Email</span>
                                                     </div>
                                                 </div>
                                             </a>
@@ -103,10 +102,10 @@
                                                 <span>@item.PageT</span>
                                             </div>
                                         <div class="nk-tb-col tb-col-lg">
-                                            <span></span>
+                                            <span>@item.PageDescription</span>
                                         </div>
                                         <div class="nk-tb-col tb-col-mb">
-                                            <span></span>
+                                            <span>@item.PublishDate</span>
                                         </div>
                                         <div class="nk-tb-col tb-col-md">
                                             <span class="tb-status text-success">Active</span>
@@ -128,8 +127,8 @@
                                                         <a href="#" class="dropdown-toggle btn btn-icon btn-trigger" data-bs-toggle="dropdown"><em class="icon ni ni-more-h"></em></a>
                                                         <div class="dropdown-menu dropdown-menu-end">
                                                             <ul class="link-list-opt no-bdr">
-                                                                    <li>@Html.ActionLink("Düzelt", "Edit", "About", new { id = item.Id })</li>
-                                                                    <li>@Html.ActionLink("Düzelt", "Delete", "About", new { id = item.Id })</li>
+                                                                    <li>@Html.ActionLink("Edit", "Edit", item.LayoutName, new { id = item.Id })</li>
+                                                                    <li>@Html.ActionLink("Delete", "Delete", item.LayoutName, new { id = item.Id })</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -192,7 +191,6 @@
                 </div><!-- .nk-block -->
             </div>
         </div>
-    </div>
 </div>
 <!-- JavaScript -->
 <script src="~/adminpanel/assets/js/bundle.js?ver=3.0.0"></script>

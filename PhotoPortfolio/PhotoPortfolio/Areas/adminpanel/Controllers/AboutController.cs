@@ -90,7 +90,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(AboutEditViewModel model, Pages article, int id)
+        public async Task<IActionResult> Edit(AboutEditViewModel model, int id)
         {
             var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "About");
             if (result != null)
@@ -106,12 +106,13 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
                 {
                     var extension = Path.GetExtension(model.PageImgUrl.FileName);
                     var newImageName = Guid.NewGuid() + extension;
-                    var location = Path.Combine(Directory.GetCurrentDirectory(), "~/adminpanel/images/", newImageName);
+                    var webRootPath = _webHostEnvironment.WebRootPath;
+                    var location = Path.Combine(webRootPath, "adminpanel/images", newImageName);
                     var stream = new FileStream(location, FileMode.Create);
                     model.PageImgUrl.CopyTo(stream);
                     result.AboutImgUrl = newImageName;
                 }
-                 _context.Update(article);
+                 _context.Update(result);
                 await _context.SaveChangesAsync();
             }
            

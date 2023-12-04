@@ -1,4 +1,4 @@
-﻿@model AboutEditViewModel
+﻿@model AboutCreateViewModel
 <div class="card">
     <div class="card-inner">
         <div class="card-head">
@@ -8,8 +8,83 @@
             <div class="row g-3 align-center">
                 <div class="col-lg-5">
                     <div class="form-group">
-                        <label class="form-label" for="site-name">Title</label>
+                        <label class="form-label" for="site-name">Page Title</label>
                         <span class="form-note">You could write title here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.PageT">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Page Description</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.PageDescription">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Page Button Title</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.PageButtonTitle">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">Page Button URL</label>
+                        <span class="form-note">You can write description here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="text" class="form-control" asp-for="@Model.PageButtonURL">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">About Image</label>
+                        <span class="form-note">You can write button name here</span>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="form-group">
+                        <div class="form-control-wrap">
+                            <input type="file" class="form-control" asp-for="PageImgUrl" name="PageImgUrl">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-3 align-center">
+                <div class="col-lg-5">
+                    <div class="form-group">
+                        <label class="form-label">About Title</label>
+                        <span class="form-note">You can write description here</span>
                     </div>
                 </div>
                 <div class="col-lg-7">
@@ -23,29 +98,14 @@
             <div class="row g-3 align-center">
                 <div class="col-lg-5">
                     <div class="form-group">
-                        <label class="form-label">Description</label>
+                        <label class="form-label">About Content</label>
                         <span class="form-note">You can write description here</span>
                     </div>
                 </div>
                 <div class="col-lg-7">
                     <div class="form-group">
                         <div class="form-control-wrap">
-                            <input type="text" class="form-control" asp-for="@Model.Description">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-3 align-center">
-                <div class="col-lg-5">
-                    <div class="form-group">
-                        <label class="form-label">Button Title</label>
-                        <span class="form-note">You can write button name here</span>
-                    </div>
-                </div>
-                <div class="col-lg-7">
-                    <div class="form-group">
-                        <div class="form-control-wrap">
-                            <input type="file" class="form-control" asp-for="PageImgUrl" name="PageImgUrl">
+                            <textarea class="form-control" rows="5" asp-for="@Model.Description"></textarea>
                         </div>
                     </div>
                 </div>
@@ -53,7 +113,7 @@
             <div class="row g-3">
                 <div class="col-lg-7 offset-lg-5">
                     <div class="form-group mt-2">
-                        <button type="submit" class="btn btn-lg btn-primary">Düzenle</button>
+                        <button type="submit" class="btn btn-lg btn-primary">Ekle</button>
                     </div>
                 </div>
             </div>

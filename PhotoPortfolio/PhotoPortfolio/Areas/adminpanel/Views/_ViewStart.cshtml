@@ -1,3 +1,15 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Identity;
+@inject UserManager<AppUser> UserManager
+@{
+    // UserViewModel'i oluşturun ve içine kullanıcı adını alın
+    var user = await UserManager.FindByNameAsync(User.Identity.Name);
+    var userViewModel = new UserViewModel
+            {
+                UserName = user.UserName,
+                EMail = user.Email
+            };
+
+    // Tüm sayfalarda bu ViewModel'i kullanılabilir hale getirin
+    ViewData["UserViewModel"] = userViewModel;
     Layout = "_Layout";
 }

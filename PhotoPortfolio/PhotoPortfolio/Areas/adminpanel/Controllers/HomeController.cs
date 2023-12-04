@@ -32,12 +32,15 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
                 var model = result.Select(x => new HomeListVM()
                 {
                     PageT = x.PageTitle,
-                    PageDescription = x.PageDescription,
+                    PageDescription = x.PageDescription.Length > 50 ? x.PageDescription.Substring(0, 50) + "..." : x.PageDescription,
                     PublishDate = x.Publishdate,
                     Id = x.Id,
                     UserName = currentUser.UserName, 
+                    Email = currentUser.Email,
+                    LayoutName = x.LayoutName,
                 }).OrderBy(x => x.PageT).ToList();
                 TempData["UserName"] = currentUser.UserName;
+                TempData["Email"] = currentUser.Email;
 
                 return View(model);
             }
@@ -56,6 +59,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
                     PageDescription = x.PageDescription,
                     PublishDate = x.Publishdate,
                     Id = x.Id,
+                    LayoutName = x.LayoutName,
                 }).OrderBy(x => x.PageT).ToList();
 
                 return View(model);
@@ -71,7 +75,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
         public async Task<IActionResult> Create(HomeCreateVM home)
         {
             Pages pages = new Pages();
-            var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "HomePage");
+            var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "Home");
             if (result == null)
             {
                 pages.PageTitle = home.PageT;
@@ -79,7 +83,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
                 pages.ButtonTitle = home.PageButtonTitle;
                 pages.ButtonURL = home.PageButtonURL;
                 pages.Publishdate = DateTime.Now;
-                pages.LayoutName = "HomePage";
+                pages.LayoutName = "Home";
                 await _context.AddAsync(pages);
                 await _context.SaveChangesAsync();
 
@@ -94,7 +98,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
         {
             HomeEditVM home = new HomeEditVM();
 
-            var result = await _context.Pages.FirstOrDefaultAsync(x =>x.LayoutName=="HomePage");
+            var result = await _context.Pages.FirstOrDefaultAsync(x =>x.LayoutName=="Home");
 
             if (result != null)
             {
@@ -113,7 +117,7 @@ namespace PhotoPortfolio.Areas.adminpanel.Controllers
         [HttpPost]
         public async Task<IActionResult> Edit(HomeEditVM home, int id)
         {
-            var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "HomePage");
+            var result = await _context.Pages.FirstOrDefaultAsync(x => x.LayoutName == "Home");
 
             if (result != null)
             {
